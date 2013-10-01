@@ -5,15 +5,15 @@ Welcome to the introductory 'Restaurants' development guide! The goal of this gu
 
 1) Technology Used:
 
-Backbone.js
+	- Backbone.js
 
-Underscore.JS
+	- Underscore.JS
 
-jQuery
+	- jQuery
 
-Bootstrap
+	- Bootstrap
 
-Node.JS
+	- Node.JS
 
 2) How To Set Up Your Dev Environment:
 
